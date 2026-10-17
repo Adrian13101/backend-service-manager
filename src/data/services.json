@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Corte de pelo",
+    "description": "Corte clásico con lavado incluido",
+    "duration": 30,
+    "price": 5000,
+    "category": "peluquería",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Masaje descontracturante",
+    "description": "Masaje de espalda y cuello",
+    "duration": 60,
+    "price": 12000,
+    "category": "bienestar",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Manicura",
+    "description": "Manicura con esmaltado semipermanente",
+    "duration": 45,
+    "price": 7000,
+    "category": "estética",
+    "available": false
+  }
+]
